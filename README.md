@@ -1,0 +1,2 @@
+# basicC
+starters C code
