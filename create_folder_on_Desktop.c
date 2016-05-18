@@ -1,3 +1,10 @@
+/*
+ * Shiv Pratap Singh
+ * Create a folder on desktop by finding user name
+ *
+*/
+
+
 //Header Files
 
 #include<stdio.h>
